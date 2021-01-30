@@ -1,0 +1,11 @@
+species	genomeLength
+yeast	13.8
+zebrafish	1700
+bee	236
+frog	6760
+tuberculosis	4.4
+chicken	1050
+plasmodium	22
+human	3000
+mouse	2500
+maize	2400
